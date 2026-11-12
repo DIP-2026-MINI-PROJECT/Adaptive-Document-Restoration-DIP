@@ -111,8 +111,8 @@ These contributions represent the combination and adaptation developed within th
 
 ## Contributors
 
-- [Contributor 1 – Name and SRN]
-- [Contributor 2 – Name and SRN]
+-  Name: NAGARAJU SRN: PES1UG24EC928
+-  Name:V SAI ANKIT  SRN:PES1UG24EC306
 
 ## Steps to Run
 
